@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="timer_name1"> Timer </string>
+    <string name="c_protine">c_protine</string>
+    <string name="dna">dna</string>
+    <string name="energy">energy</string>
+    <string name="h_lactos">h_lactos</string>
+    <string name="hydrolyzed">hydrolyzed</string>
+    <string name="minerals">minerals</string>
+    <string name="vitamine">vitamine</string>
+
+
+</resources>
